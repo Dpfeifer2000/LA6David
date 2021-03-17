@@ -1,0 +1,101 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Label6.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Radiobutton1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Select1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Dropdown1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "inputName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Label7.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "buttonSubmit.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 550,
+  "designWidth": 400,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "newControls",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
